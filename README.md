@@ -1,2 +1,2 @@
 # arduino-apps
-Arduino application example repo. 
+Starter and skeleton code for building Arduino apps for the Internet of Things!
