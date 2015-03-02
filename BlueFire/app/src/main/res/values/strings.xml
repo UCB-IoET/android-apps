@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlueFire</string>
+
+    <string name="discover"> Invade </string>
+    <string name="stop_discover"> Retreat! </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_prisoners_of_war">PrisonersOfWar</string>
+    <string name="discovery_text">Launching the fleet!</string>
+    <string name="sort_by_distance">Sort</string>
+    <string name="sort_by_recent">Recent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="red_led">Red LED</string>
+    <string name="green_led">Green LED</string>
+    <string name="blue_led">Blue LED</string>
+    <string name="title_activity_blue_fire_device_inspect">BlueFireDeviceInspect</string>
+</resources>
