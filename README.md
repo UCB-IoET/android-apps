@@ -1,2 +1,2 @@
-# arduino-apps
-Starter and skeleton code for building Arduino apps for the Internet of Things!
+# android-apps
+Starter and skeleton code for building Android apps for the Internet of Things!
